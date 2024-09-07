@@ -110,3 +110,16 @@ audio {
   color: #fdf5e6; /* Antique white */
   font-family: 'Scheherazade New', serif;
 }
+
+@media (max-width: 768px) {
+    .content-wrapper {
+        margin-bottom: 80px;
+      }
+  }
+
+@media (max-width: 480px) {
+    .content-wrapper {
+        margin-bottom: 105px;
+      }
+  }
+  
