@@ -1,0 +1,112 @@
+
+body {
+  background-color: #f5f3ed; /* Light parchment */
+  font-family: 'Amiri', serif;
+  color: #2d2b26; /* Dark elegant gray */
+  padding-top: 70px;
+  padding-bottom: 60px;
+}
+
+/* Sticky Header */
+.navbar {
+  background-color: #2b4d40; /* Dark moss green */
+  border-bottom: 4px solid #e8c547; /* Soft gold border */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+.navbar-brand {
+  font-family: 'Scheherazade New', serif;
+  font-size: 1.8rem;
+  color: #fdf5e6; /* Antique white */
+}
+
+/* Content Wrapper */
+.content-wrapper {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+/* Surah Card Styling */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.surah-card {
+  margin-bottom: 10px; /* Less margin between cards */
+}
+.card {
+  border: none;
+  background-color: #fdfcf7; /* Soft off-white */
+  border-left: 6px solid #2b4d40; /* Dark moss green */
+  border-radius: 10px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  min-height: 120px; /* Reduced minimum height */
+}
+.card-body {
+  padding: 10px 15px; /* Reduced padding */
+}
+.card-title {
+  font-family: 'Scheherazade New', serif;
+  font-size: 1.2rem; /* Slightly smaller font */
+  color: #2b4d40; /* Dark moss green */
+  display: flex;
+  align-items: center;
+}
+
+/* Surah Number Tilted Square Design */
+.surah-number {
+  display: inline-block;
+  font-size: 1rem; /* Larger surah number */
+  color: #fff;
+  background-color: #e8c547; /* Soft gold */
+  padding: 0; /* No padding */
+  transform: rotate(45deg); /* Tilt the square */
+  margin-left: 10px;
+  height: 25px; /* Increased square size */
+  width: 25px;
+  line-height: 25px; /* Center text vertically */
+  text-align: center; /* Center text horizontally */
+}
+.surah-number span {
+  display: inline-block;
+  transform: rotate(-45deg); /* Rotate the text back to normal */
+}
+
+.card-text {
+  font-size: 0.9rem; /* Smaller description text */
+  color: #6b6355; /* Muted brown */
+}
+
+/* Footer */
+footer {
+  background-color: #2b4d40;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-top: 4px solid #e8c547; /* Soft gold top border */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Audio Element Styling */
+audio {
+  width: 100%;
+  margin-top: 5px; /* Less margin between audio and text */
+  border-radius: 5px;
+}
+
+/* Hover effect for cards */
+.card:hover {
+  background-color: #e8c547; /* Soft gold on hover */
+  transition: 0.3s;
+}
+    /* Verse Styling */
+.quran-verse {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #fdf5e6; /* Antique white */
+  font-family: 'Scheherazade New', serif;
+}
