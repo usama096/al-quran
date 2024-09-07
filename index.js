@@ -13,7 +13,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Opener"
         },
-        "audio_link": base_url+"/001s-fatiha.mp3"
+        "audio_link": base_url + "/001s-fatiha.mp3"
     },
     {
         "id": 2,
@@ -28,7 +28,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Cow"
         },
-        "audio_link": base_url+"/002s-Baqarah.mp3"
+        "audio_link": base_url + "/002s-Baqarah.mp3"
     },
     {
         "id": 3,
@@ -43,7 +43,7 @@ let chapters = [
             "language_name": "english",
             "name": "Family of Imran"
         },
-        "audio_link": base_url+"/003s-Imran.mp3"
+        "audio_link": base_url + "/003s-Imran.mp3"
     },
     {
         "id": 4,
@@ -58,7 +58,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Women"
         },
-        "audio_link": base_url+"/004s-Nisa.mp3"
+        "audio_link": base_url + "/004s-Nisa.mp3"
     },
     {
         "id": 5,
@@ -73,7 +73,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Table Spread"
         },
-        "audio_link": base_url+"/005s-Maida.mp3"
+        "audio_link": base_url + "/005s-Maida.mp3"
     },
     {
         "id": 6,
@@ -88,7 +88,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Cattle"
         },
-        "audio_link": base_url+"/006sAnham.mp3"
+        "audio_link": base_url + "/006sAnham.mp3"
     },
     {
         "id": 7,
@@ -103,7 +103,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Heights"
         },
-        "audio_link": base_url+"/007s-Aaraf.mp3"
+        "audio_link": base_url + "/007s-Aaraf.mp3"
     },
     {
         "id": 8,
@@ -133,7 +133,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Repentance"
         },
-        "audio_link": base_url+"/009s-Tobah.mp3"
+        "audio_link": base_url + "/009s-Tobah.mp3"
     },
     {
         "id": 10,
@@ -148,7 +148,7 @@ let chapters = [
             "language_name": "english",
             "name": "Jonah"
         },
-        "audio_link": base_url+"/010s-Younus.mp3"
+        "audio_link": base_url + "/010s-Younus.mp3"
     },
     {
         "id": 11,
@@ -163,7 +163,7 @@ let chapters = [
             "language_name": "english",
             "name": "Hud"
         },
-        "audio_link": base_url+"/011s-Hood.mp3"
+        "audio_link": base_url + "/011s-Hood.mp3"
     },
     {
         "id": 12,
@@ -178,7 +178,7 @@ let chapters = [
             "language_name": "english",
             "name": "Joseph"
         },
-        "audio_link": base_url+"/012s-Yousuf.mp3"
+        "audio_link": base_url + "/012s-Yousuf.mp3"
     },
     {
         "id": 13,
@@ -193,7 +193,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Thunder"
         },
-        "audio_link": base_url+"/013s-Raad.mp3"
+        "audio_link": base_url + "/013s-Raad.mp3"
     },
     {
         "id": 14,
@@ -208,7 +208,7 @@ let chapters = [
             "language_name": "english",
             "name": "Abraham"
         },
-        "audio_link": base_url+"/014s-Ibraheem.mp3"
+        "audio_link": base_url + "/014s-Ibraheem.mp3"
     },
     {
         "id": 15,
@@ -223,7 +223,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Rocky Tract"
         },
-        "audio_link": base_url+"/015s-Hijr.mp3"
+        "audio_link": base_url + "/015s-Hijr.mp3"
     },
     {
         "id": 16,
@@ -238,7 +238,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Bee"
         },
-        "audio_link": base_url+"/016s-Nihal.mp3"
+        "audio_link": base_url + "/016s-Nihal.mp3"
     },
     {
         "id": 17,
@@ -253,7 +253,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Night Journey"
         },
-        "audio_link": base_url+"/017s-Bani-Israil.mp3"
+        "audio_link": base_url + "/017s-Bani-Israil.mp3"
     },
     {
         "id": 18,
@@ -268,7 +268,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Cave"
         },
-        "audio_link": base_url+"/018s-Kahf.mp3"
+        "audio_link": base_url + "/018s-Kahf.mp3"
     },
     {
         "id": 19,
@@ -283,7 +283,7 @@ let chapters = [
             "language_name": "english",
             "name": "Mary"
         },
-        "audio_link": base_url+"/019s-Mariam.mp3"
+        "audio_link": base_url + "/019s-Mariam.mp3"
     },
     {
         "id": 20,
@@ -298,7 +298,7 @@ let chapters = [
             "language_name": "english",
             "name": "Ta-Ha"
         },
-        "audio_link": base_url+"/020s-Taha.mp3"
+        "audio_link": base_url + "/020s-Taha.mp3"
     },
     {
         "id": 21,
@@ -313,7 +313,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Prophets"
         },
-        "audio_link": base_url+"/021s-Anbiyea.mp3"
+        "audio_link": base_url + "/021s-Anbiyea.mp3"
     },
     {
         "id": 22,
@@ -328,7 +328,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Pilgrimage"
         },
-        "audio_link": base_url+"/022s-Haj.mp3"
+        "audio_link": base_url + "/022s-Haj.mp3"
     },
     {
         "id": 23,
@@ -343,7 +343,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Believers"
         },
-        "audio_link": base_url+"/023s-Mominoon.mp3"
+        "audio_link": base_url + "/023s-Mominoon.mp3"
     },
     {
         "id": 24,
@@ -358,7 +358,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Light"
         },
-        "audio_link": base_url+"/024s-Noor.mp3"
+        "audio_link": base_url + "/024s-Noor.mp3"
     },
     {
         "id": 25,
@@ -373,7 +373,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Criterion"
         },
-        "audio_link": base_url+"/025s-Furqaan.mp3"
+        "audio_link": base_url + "/025s-Furqaan.mp3"
     },
     {
         "id": 26,
@@ -388,7 +388,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Poets"
         },
-        "audio_link": base_url+"/026s-Shuaara.mp3"
+        "audio_link": base_url + "/026s-Shuaara.mp3"
     },
     {
         "id": 27,
@@ -403,7 +403,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Ant"
         },
-        "audio_link": base_url+"/027s-Namal.mp3"
+        "audio_link": base_url + "/027s-Namal.mp3"
     },
     {
         "id": 28,
@@ -418,7 +418,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Stories"
         },
-        "audio_link": base_url+"/028s-Qasas.mp3"
+        "audio_link": base_url + "/028s-Qasas.mp3"
     },
     {
         "id": 29,
@@ -433,7 +433,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Spider"
         },
-        "audio_link": base_url+"/029s-Ankaboot.mp3"
+        "audio_link": base_url + "/029s-Ankaboot.mp3"
     },
     {
         "id": 30,
@@ -448,7 +448,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Romans"
         },
-        "audio_link": base_url+"/030s-Room.mp3"
+        "audio_link": base_url + "/030s-Room.mp3"
     },
     {
         "id": 31,
@@ -463,7 +463,7 @@ let chapters = [
             "language_name": "english",
             "name": "Luqman"
         },
-        "audio_link": base_url+"/031s-Luqmaan.mp3"
+        "audio_link": base_url + "/031s-Luqmaan.mp3"
     },
     {
         "id": 32,
@@ -478,7 +478,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Prostration"
         },
-        "audio_link": base_url+"/032s-Sajda.mp3"
+        "audio_link": base_url + "/032s-Sajda.mp3"
     },
     {
         "id": 33,
@@ -493,7 +493,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Combined Forces"
         },
-        "audio_link": base_url+"/033s-Ahzab.mp3"
+        "audio_link": base_url + "/033s-Ahzab.mp3"
     },
     {
         "id": 34,
@@ -508,7 +508,7 @@ let chapters = [
             "language_name": "english",
             "name": "Sheba"
         },
-        "audio_link": base_url+"/034s-Saba.mp3"
+        "audio_link": base_url + "/034s-Saba.mp3"
     },
     {
         "id": 35,
@@ -523,7 +523,7 @@ let chapters = [
             "language_name": "english",
             "name": "Originator"
         },
-        "audio_link": base_url+"/035s-Fatir.mp3"
+        "audio_link": base_url + "/035s-Fatir.mp3"
     },
     {
         "id": 36,
@@ -538,7 +538,7 @@ let chapters = [
             "language_name": "english",
             "name": "Ya Sin"
         },
-        "audio_link": base_url+"/036s-Yaseen.mp3"
+        "audio_link": base_url + "/036s-Yaseen.mp3"
     },
     {
         "id": 37,
@@ -553,7 +553,7 @@ let chapters = [
             "language_name": "english",
             "name": "Those who set the Ranks"
         },
-        "audio_link": base_url+"/037s-Saafaat.mp3"
+        "audio_link": base_url + "/037s-Saafaat.mp3"
     },
     {
         "id": 38,
@@ -568,7 +568,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Letter \"Saad\""
         },
-        "audio_link": base_url+"/038s-Swad.mp3"
+        "audio_link": base_url + "/038s-Swad.mp3"
     },
     {
         "id": 39,
@@ -583,7 +583,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Troops"
         },
-        "audio_link": base_url+"/039s-Zomar.mp3"
+        "audio_link": base_url + "/039s-Zomar.mp3"
     },
     {
         "id": 40,
@@ -598,7 +598,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Forgiver"
         },
-        "audio_link": base_url+"/040s-Momin.mp3"
+        "audio_link": base_url + "/040s-Momin.mp3"
     },
     {
         "id": 41,
@@ -613,7 +613,7 @@ let chapters = [
             "language_name": "english",
             "name": "Explained in Detail"
         },
-        "audio_link": base_url+"/041s-H-Sajda.mp3"
+        "audio_link": base_url + "/041s-H-Sajda.mp3"
     },
     {
         "id": 42,
@@ -628,7 +628,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Consultation"
         },
-        "audio_link": base_url+"/042s-Shoora.mp3"
+        "audio_link": base_url + "/042s-Shoora.mp3"
     },
     {
         "id": 43,
@@ -643,7 +643,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Ornaments of Gold"
         },
-        "audio_link": base_url+"/043s-Zukhraf.mp3"
+        "audio_link": base_url + "/043s-Zukhraf.mp3"
     },
     {
         "id": 44,
@@ -658,7 +658,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Smoke"
         },
-        "audio_link": base_url+"/044s-Dukham.mp3"
+        "audio_link": base_url + "/044s-Dukham.mp3"
     },
     {
         "id": 45,
@@ -673,7 +673,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Crouching"
         },
-        "audio_link": base_url+"/045s-Jasia.mp3"
+        "audio_link": base_url + "/045s-Jasia.mp3"
     },
     {
         "id": 46,
@@ -688,7 +688,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Wind-Curved Sandhills"
         },
-        "audio_link": base_url+"/046s-Ahkaf.mp3"
+        "audio_link": base_url + "/046s-Ahkaf.mp3"
     },
     {
         "id": 47,
@@ -703,7 +703,7 @@ let chapters = [
             "language_name": "english",
             "name": "Muhammad"
         },
-        "audio_link": base_url+"/047s-Mohammad.mp3"
+        "audio_link": base_url + "/047s-Mohammad.mp3"
     },
     {
         "id": 48,
@@ -718,7 +718,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Victory"
         },
-        "audio_link": base_url+"/048s-Fatah.mp3"
+        "audio_link": base_url + "/048s-Fatah.mp3"
     },
     {
         "id": 49,
@@ -733,7 +733,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Rooms"
         },
-        "audio_link": base_url+"/049s-Hujara.mp3"
+        "audio_link": base_url + "/049s-Hujara.mp3"
     },
     {
         "id": 50,
@@ -748,7 +748,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Letter \"Qaf\""
         },
-        "audio_link": base_url+"/050s-Qaaf.mp3"
+        "audio_link": base_url + "/050s-Qaaf.mp3"
     },
     {
         "id": 51,
@@ -763,7 +763,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Winnowing Winds"
         },
-        "audio_link": base_url+"/051s-Zaryeat.mp3"
+        "audio_link": base_url + "/051s-Zaryeat.mp3"
     },
     {
         "id": 52,
@@ -778,7 +778,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Mount"
         },
-        "audio_link": base_url+"/052s-Toor.mp3"
+        "audio_link": base_url + "/052s-Toor.mp3"
     },
     {
         "id": 53,
@@ -793,7 +793,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Star"
         },
-        "audio_link": base_url+"/053s-Najam.mp3"
+        "audio_link": base_url + "/053s-Najam.mp3"
     },
     {
         "id": 54,
@@ -808,7 +808,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Moon"
         },
-        "audio_link": base_url+"/054s-Qamar.mp3"
+        "audio_link": base_url + "/054s-Qamar.mp3"
     },
     {
         "id": 55,
@@ -823,7 +823,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Beneficent"
         },
-        "audio_link": base_url+"/055s-Rahman.mp3"
+        "audio_link": base_url + "/055s-Rahman.mp3"
     },
     {
         "id": 56,
@@ -838,7 +838,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Inevitable"
         },
-        "audio_link": base_url+"/056s-Waqia.mp3"
+        "audio_link": base_url + "/056s-Waqia.mp3"
     },
     {
         "id": 57,
@@ -853,7 +853,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Iron"
         },
-        "audio_link": base_url+"/057s-Hadeed.mp3"
+        "audio_link": base_url + "/057s-Hadeed.mp3"
     },
     {
         "id": 58,
@@ -868,7 +868,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Pleading Woman"
         },
-        "audio_link": base_url+"/058s-Mojadilah.mp3"
+        "audio_link": base_url + "/058s-Mojadilah.mp3"
     },
     {
         "id": 59,
@@ -883,7 +883,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Exile"
         },
-        "audio_link": base_url+"/059s-Hashar.mp3"
+        "audio_link": base_url + "/059s-Hashar.mp3"
     },
     {
         "id": 60,
@@ -898,7 +898,7 @@ let chapters = [
             "language_name": "english",
             "name": "She that is to be examined"
         },
-        "audio_link": base_url+"/060s-Mumtahina.mp3"
+        "audio_link": base_url + "/060s-Mumtahina.mp3"
     },
     {
         "id": 61,
@@ -913,7 +913,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Ranks"
         },
-        "audio_link": base_url+"/061s-Saf.mp3"
+        "audio_link": base_url + "/061s-Saf.mp3"
     },
     {
         "id": 62,
@@ -928,7 +928,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Congregation, Friday"
         },
-        "audio_link": base_url+"/062s-Jumah.mp3"
+        "audio_link": base_url + "/062s-Jumah.mp3"
     },
     {
         "id": 63,
@@ -943,7 +943,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Hypocrites"
         },
-        "audio_link": base_url+"/063s-Munafiqoon.mp3"
+        "audio_link": base_url + "/063s-Munafiqoon.mp3"
     },
     {
         "id": 64,
@@ -958,7 +958,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Mutual Disillusion"
         },
-        "audio_link": base_url+"/064s-Taghabun.mp3"
+        "audio_link": base_url + "/064s-Taghabun.mp3"
     },
     {
         "id": 65,
@@ -973,7 +973,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Divorce"
         },
-        "audio_link": base_url+"/065s-Talaq.mp3"
+        "audio_link": base_url + "/065s-Talaq.mp3"
     },
     {
         "id": 66,
@@ -988,7 +988,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Prohibition"
         },
-        "audio_link": base_url+"/066s-Tahreem.mp3"
+        "audio_link": base_url + "/066s-Tahreem.mp3"
     },
     {
         "id": 67,
@@ -1003,7 +1003,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Sovereignty"
         },
-        "audio_link": base_url+"/067s-Mulk.mp3"
+        "audio_link": base_url + "/067s-Mulk.mp3"
     },
     {
         "id": 68,
@@ -1018,7 +1018,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Pen"
         },
-        "audio_link": base_url+"/068s-Qalm.mp3"
+        "audio_link": base_url + "/068s-Qalm.mp3"
     },
     {
         "id": 69,
@@ -1033,7 +1033,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Reality"
         },
-        "audio_link": base_url+"/069s-Haaqah.mp3"
+        "audio_link": base_url + "/069s-Haaqah.mp3"
     },
     {
         "id": 70,
@@ -1048,7 +1048,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Ascending Stairways"
         },
-        "audio_link": base_url+"/070s-Maarij.mp3"
+        "audio_link": base_url + "/070s-Maarij.mp3"
     },
     {
         "id": 71,
@@ -1063,7 +1063,7 @@ let chapters = [
             "language_name": "english",
             "name": "Noah"
         },
-        "audio_link": base_url+"/071s-Nooh.mp3"
+        "audio_link": base_url + "/071s-Nooh.mp3"
     },
     {
         "id": 72,
@@ -1078,7 +1078,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Jinn"
         },
-        "audio_link": base_url+"/072s-Jin.mp3"
+        "audio_link": base_url + "/072s-Jin.mp3"
     },
     {
         "id": 73,
@@ -1093,7 +1093,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Enshrouded One"
         },
-        "audio_link": base_url+"/073s-Muzammil.mp3"
+        "audio_link": base_url + "/073s-Muzammil.mp3"
     },
     {
         "id": 74,
@@ -1108,7 +1108,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Cloaked One"
         },
-        "audio_link": base_url+"/074s-Mudasir.mp3"
+        "audio_link": base_url + "/074s-Mudasir.mp3"
     },
     {
         "id": 75,
@@ -1123,7 +1123,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Resurrection"
         },
-        "audio_link": base_url+"/075s-Qeamah.mp3"
+        "audio_link": base_url + "/075s-Qeamah.mp3"
     },
     {
         "id": 76,
@@ -1138,7 +1138,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Man"
         },
-        "audio_link": base_url+"/076s-Dahar.mp3"
+        "audio_link": base_url + "/076s-Dahar.mp3"
     },
     {
         "id": 77,
@@ -1153,7 +1153,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Emissaries"
         },
-        "audio_link": base_url+"/077s-Mursalat.mp3"
+        "audio_link": base_url + "/077s-Mursalat.mp3"
     },
     {
         "id": 78,
@@ -1168,7 +1168,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Tidings"
         },
-        "audio_link": base_url+"/078s-Naba.mp3"
+        "audio_link": base_url + "/078s-Naba.mp3"
     },
     {
         "id": 79,
@@ -1183,7 +1183,7 @@ let chapters = [
             "language_name": "english",
             "name": "Those who drag forth"
         },
-        "audio_link": base_url+"/079s-Naziaat.mp3"
+        "audio_link": base_url + "/079s-Naziaat.mp3"
     },
     {
         "id": 80,
@@ -1198,7 +1198,7 @@ let chapters = [
             "language_name": "english",
             "name": "He Frowned"
         },
-        "audio_link": base_url+"/080s-Abas.mp3"
+        "audio_link": base_url + "/080s-Abas.mp3"
     },
     {
         "id": 81,
@@ -1213,7 +1213,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Overthrowing"
         },
-        "audio_link": base_url+"/081s-Taqweer.mp3"
+        "audio_link": base_url + "/081s-Taqweer.mp3"
     },
     {
         "id": 82,
@@ -1228,7 +1228,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Cleaving"
         },
-        "audio_link": base_url+"/082s-Infitaar.mp3"
+        "audio_link": base_url + "/082s-Infitaar.mp3"
     },
     {
         "id": 83,
@@ -1243,7 +1243,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Defrauding"
         },
-        "audio_link": base_url+"/083s-Mutafifeen.mp3"
+        "audio_link": base_url + "/083s-Mutafifeen.mp3"
     },
     {
         "id": 84,
@@ -1258,7 +1258,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Sundering"
         },
-        "audio_link": base_url+"/084s-Inshiqaq.mp3"
+        "audio_link": base_url + "/084s-Inshiqaq.mp3"
     },
     {
         "id": 85,
@@ -1273,7 +1273,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Mansions of the Stars"
         },
-        "audio_link": base_url+"/085s-Burooj.mp3"
+        "audio_link": base_url + "/085s-Burooj.mp3"
     },
     {
         "id": 86,
@@ -1288,7 +1288,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Nightcommer"
         },
-        "audio_link": base_url+"/"
+        "audio_link": base_url + "/"
     },
     {
         "id": 87,
@@ -1303,7 +1303,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Most High"
         },
-        "audio_link": base_url+"/087s-Aala.mp3"
+        "audio_link": base_url + "/087s-Aala.mp3"
     },
     {
         "id": 88,
@@ -1318,7 +1318,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Overwhelming"
         },
-        "audio_link": base_url+"/088s-Ghashiah.mp3"
+        "audio_link": base_url + "/088s-Ghashiah.mp3"
     },
     {
         "id": 89,
@@ -1333,7 +1333,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Dawn"
         },
-        "audio_link": base_url+"/089s-Fajr.mp3"
+        "audio_link": base_url + "/089s-Fajr.mp3"
     },
     {
         "id": 90,
@@ -1348,7 +1348,7 @@ let chapters = [
             "language_name": "english",
             "name": "The City"
         },
-        "audio_link": base_url+"/090s-Balad.mp3"
+        "audio_link": base_url + "/090s-Balad.mp3"
     },
     {
         "id": 91,
@@ -1363,7 +1363,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Sun"
         },
-        "audio_link": base_url+"/091s-Shams.mp3"
+        "audio_link": base_url + "/091s-Shams.mp3"
     },
     {
         "id": 92,
@@ -1378,7 +1378,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Night"
         },
-        "audio_link": base_url+"/092s-Lail.mp3"
+        "audio_link": base_url + "/092s-Lail.mp3"
     },
     {
         "id": 93,
@@ -1393,7 +1393,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Morning Hours"
         },
-        "audio_link": base_url+"/093s-Duha.mp3"
+        "audio_link": base_url + "/093s-Duha.mp3"
     },
     {
         "id": 94,
@@ -1408,7 +1408,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Relief"
         },
-        "audio_link": base_url+"/094s-Alam-Nashrah.mp3"
+        "audio_link": base_url + "/094s-Alam-Nashrah.mp3"
     },
     {
         "id": 95,
@@ -1423,7 +1423,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Fig"
         },
-        "audio_link": base_url+"/095s-Teen.mp3"
+        "audio_link": base_url + "/095s-Teen.mp3"
     },
     {
         "id": 96,
@@ -1438,7 +1438,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Clot"
         },
-        "audio_link": base_url+"/096s-Alaq.mp3"
+        "audio_link": base_url + "/096s-Alaq.mp3"
     },
     {
         "id": 97,
@@ -1453,7 +1453,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Power"
         },
-        "audio_link": base_url+"/097s-Qadar.mp3"
+        "audio_link": base_url + "/097s-Qadar.mp3"
     },
     {
         "id": 98,
@@ -1468,7 +1468,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Clear Proof"
         },
-        "audio_link": base_url+"/098s-Bayina.mp3"
+        "audio_link": base_url + "/098s-Bayina.mp3"
     },
     {
         "id": 99,
@@ -1483,7 +1483,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Earthquake"
         },
-        "audio_link": base_url+"/099s-Zilzaal.mp3"
+        "audio_link": base_url + "/099s-Zilzaal.mp3"
     },
     {
         "id": 100,
@@ -1498,7 +1498,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Courser"
         },
-        "audio_link": base_url+"/100s-Aadiyeat.mp3"
+        "audio_link": base_url + "/100s-Aadiyeat.mp3"
     },
     {
         "id": 101,
@@ -1513,7 +1513,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Calamity"
         },
-        "audio_link": base_url+"/101s-Qariah.mp3"
+        "audio_link": base_url + "/101s-Qariah.mp3"
     },
     {
         "id": 102,
@@ -1528,7 +1528,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Rivalry in world increase"
         },
-        "audio_link": base_url+"/102s-Takasur.mp3"
+        "audio_link": base_url + "/102s-Takasur.mp3"
     },
     {
         "id": 103,
@@ -1543,7 +1543,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Declining Day"
         },
-        "audio_link": base_url+"/103s-Aasar.mp3"
+        "audio_link": base_url + "/103s-Aasar.mp3"
     },
     {
         "id": 104,
@@ -1558,7 +1558,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Traducer"
         },
-        "audio_link": base_url+"/104s-Humaza.mp3"
+        "audio_link": base_url + "/104s-Humaza.mp3"
     },
     {
         "id": 105,
@@ -1573,7 +1573,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Elephant"
         },
-        "audio_link": base_url+"/105s-feel.mp3"
+        "audio_link": base_url + "/105s-feel.mp3"
     },
     {
         "id": 106,
@@ -1588,7 +1588,7 @@ let chapters = [
             "language_name": "english",
             "name": "Quraysh"
         },
-        "audio_link": base_url+"/106s-Qureish.mp3"
+        "audio_link": base_url + "/106s-Qureish.mp3"
     },
     {
         "id": 107,
@@ -1603,7 +1603,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Small kindnesses"
         },
-        "audio_link": base_url+"/107s-Maoon.mp3"
+        "audio_link": base_url + "/107s-Maoon.mp3"
     },
     {
         "id": 108,
@@ -1618,7 +1618,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Abundance"
         },
-        "audio_link": base_url+"/108s-Kusar.mp3"
+        "audio_link": base_url + "/108s-Kusar.mp3"
     },
     {
         "id": 109,
@@ -1633,7 +1633,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Disbelievers"
         },
-        "audio_link": base_url+"/109s-Kafiroon.mp3"
+        "audio_link": base_url + "/109s-Kafiroon.mp3"
     },
     {
         "id": 110,
@@ -1648,7 +1648,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Divine Support"
         },
-        "audio_link": base_url+"/110s-Nasr.mp3"
+        "audio_link": base_url + "/110s-Nasr.mp3"
     },
     {
         "id": 111,
@@ -1663,7 +1663,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Palm Fiber"
         },
-        "audio_link": base_url+"/111s-Lahab.mp3"
+        "audio_link": base_url + "/111s-Lahab.mp3"
     },
     {
         "id": 112,
@@ -1678,7 +1678,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Sincerity"
         },
-        "audio_link": base_url+"/112s-Akhlaas.mp3"
+        "audio_link": base_url + "/112s-Akhlaas.mp3"
     },
     {
         "id": 113,
@@ -1693,7 +1693,7 @@ let chapters = [
             "language_name": "english",
             "name": "The Daybreak"
         },
-        "audio_link": base_url+"/113s-Falaq.mp3"
+        "audio_link": base_url + "/113s-Falaq.mp3"
     },
     {
         "id": 114,
@@ -1708,14 +1708,15 @@ let chapters = [
             "language_name": "english",
             "name": "Mankind"
         },
-        "audio_link": base_url+"/114s-Naas.mp3"
+        "audio_link": base_url + "/114s-Naas.mp3"
     }
 ]
 // Function to dynamically generate cards
-function createSurahCards() {
+function createSurahCards(surahs) {
     const container = document.getElementById('surah-container');
+    container.innerHTML = '';
 
-    chapters.forEach(surah => {
+    surahs.forEach(surah => {
         // Create card div
         let cardDiv = document.createElement('div');
         cardDiv.classList.add('col-md-6', 'col-lg-4', 'surah-card');
@@ -1742,4 +1743,14 @@ function createSurahCards() {
 }
 
 // Call the function to generate cards on page load
-createSurahCards();
+createSurahCards(chapters);
+
+$('#searchInput').on('keyup', function () {
+    var searchText = $(this).val().toLowerCase();
+    var filteredSurahs = chapters.filter(function (surah) {
+        return surah.name_arabic.toLowerCase().includes(searchText) ||
+            surah.name_simple.toLowerCase().includes(searchText) ||
+            surah.id.toString().includes(searchText);
+    });
+    createSurahCards(filteredSurahs);
+});

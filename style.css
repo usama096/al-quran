@@ -1,7 +1,6 @@
-
 body {
   background-color: #f5f3ed; /* Light parchment */
-  font-family: 'Amiri', serif;
+  font-family: "Amiri", serif;
   color: #2d2b26; /* Dark elegant gray */
   padding-top: 70px;
   padding-bottom: 60px;
@@ -17,7 +16,7 @@ body {
   z-index: 1000;
 }
 .navbar-brand {
-  font-family: 'Scheherazade New', serif;
+  font-family: "Scheherazade New", serif;
   font-size: 1.8rem;
   color: #fdf5e6; /* Antique white */
 }
@@ -48,7 +47,7 @@ body {
   padding: 10px 15px; /* Reduced padding */
 }
 .card-title {
-  font-family: 'Scheherazade New', serif;
+  font-family: "Scheherazade New", serif;
   font-size: 1.2rem; /* Slightly smaller font */
   color: #2b4d40; /* Dark moss green */
   display: flex;
@@ -103,23 +102,30 @@ audio {
   background-color: #e8c547; /* Soft gold on hover */
   transition: 0.3s;
 }
-    /* Verse Styling */
+/* Verse Styling */
 .quran-verse {
   font-size: 1.1rem;
   font-style: italic;
   color: #fdf5e6; /* Antique white */
-  font-family: 'Scheherazade New', serif;
+  font-family: "Scheherazade New", serif;
+}
+.search-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.search-input {
+  width: 70%;
+  max-width: 500px;
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .content-wrapper {
+    margin-bottom: 80px;
+  }
 }
 
-@media (max-width: 768px) {
-    .content-wrapper {
-        margin-bottom: 80px;
-      }
-  }
-
 @media (max-width: 480px) {
-    .content-wrapper {
-        margin-bottom: 105px;
-      }
+  .content-wrapper {
+    margin-bottom: 105px;
   }
-  
+}
